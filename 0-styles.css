@@ -175,7 +175,6 @@ a {
   background: transparent;
 }
 
-/* turning this off centers the header image */
 .header-container {
   display: flex;
   justify-content: space-between;
